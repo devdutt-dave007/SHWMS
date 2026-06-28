@@ -2,12 +2,11 @@
 Smart Health and Wellness Monitoring System
 > *For A Change.*
 
-**Short Project Description**
+## Short Project Description
 
--This project helps users manage their daily health status.
--It is a simple and easy-to-use application with a text-based interface suitable for users of all ages.
--It also helps to maintain a healthy lifestyle by suggesting various exercises and activities as per the user's health status.
----
+- This project helps users manage their daily health status
+- It is a simple and easy-to-use application with a text-based interface suitable for users of all ages
+- It also helps to maintain a healthy lifestyle by suggesting various exercises and activities as per the user's health status
 
 ## Features
 
